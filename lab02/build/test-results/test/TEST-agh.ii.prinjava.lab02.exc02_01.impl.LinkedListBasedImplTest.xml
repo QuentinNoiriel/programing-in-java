@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="agh.ii.prinjava.lab02.exc02_01.impl.LinkedListBasedImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-08T11:23:03" hostname="LAPTOP-6IPBO6EK" time="0.001">
+<testsuite name="agh.ii.prinjava.lab02.exc02_01.impl.LinkedListBasedImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-21T22:02:41" hostname="LAPTOP-6IPBO6EK" time="0.001">
   <properties/>
   <testcase name="newStackIsEmpty()" classname="agh.ii.prinjava.lab02.exc02_01.impl.LinkedListBasedImplTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>

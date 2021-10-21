@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="agh.ii.prinjava.proj1.impl.MyStackDLLBImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-21T23:26:47" hostname="LAPTOP-6IPBO6EK" time="0.012">
+  <properties/>
+  <testcase name="pop()" classname="agh.ii.prinjava.proj1.impl.MyStackDLLBImplTest" time="0.012"/>
+  <system-out><![CDATA[
+List: 8 <-> 87 <-> 1 <-> 16 <-> 47 <-> 12
+Pop the element on the list (at the end of the list): 
+New list: 87 <-> 1 <-> 16 <-> 47 <-> 12
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

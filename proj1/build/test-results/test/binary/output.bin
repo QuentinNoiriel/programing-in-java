@@ -1,0 +1,4 @@
+
++List: 8 <-> 87 <-> 1 <-> 16 <-> 47 <-> 12
+8Pop the element on the list (at the end of the list): 
+)New list: 87 <-> 1 <-> 16 <-> 47 <-> 12
